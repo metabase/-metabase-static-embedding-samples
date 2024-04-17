@@ -6,7 +6,7 @@ This sample code demonstrates using Metabase static embedding in Python using Fl
 * Have a running instance of Metabase. If you don't have one
   * [download the free open source version](https://www.metabase.com/start/oss/) or
   * [sign up for a free trial of Metabase Cloud](https://www.metabase.com/pricing/).
-* A dashboard to embed. If you don't have one, use X-Rays to let Metabase create one for you. Note down the dashboard id.
+* A dashboard to embed. If you don't have one, use X-Rays to let Metabase create one for you. Note down the dashboard ID.
 
 ## Preparing the embed
 1. Sign in to your Metabase instance as an admin. 
