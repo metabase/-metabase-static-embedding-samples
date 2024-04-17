@@ -15,9 +15,18 @@ This sample code demonstrates using Metabase static embedding in Python using Fl
 
 ## Configure the app
 
-1. Paste the secret key into an env var: `$ export METABASE_EMBEDDING_SECRET="PASTE_SECRET_HERE"`
-2. Create an env var pointing to your Metabase site URL, if it's not on http://localhost:3000 `$ export METABASE_SITE_URL="http://localhost:4000"`
-3. Create an env var with the ID of the dashboard to embed, if it's not 1: `$ export METABASE_EMBED_DASHBOARD_ID="8"`
+1. Paste the secret key into an env var:
+    ```
+    export METABASE_EMBEDDING_SECRET="PASTE_SECRET_HERE"
+    ```
+2. Create an env var pointing to your Metabase site URL, if it's not on http://localhost:3000
+    ```
+    export METABASE_SITE_URL="http://localhost:4000"
+    ```
+3. Create an env var with the ID of the dashboard to embed, if it's not 1:
+    ```
+    export METABASE_EMBED_DASHBOARD_ID="8"
+    ```
 
 ## Embed the dashboard
 1. Go to your dashboard, click on the share/embed button at the top
