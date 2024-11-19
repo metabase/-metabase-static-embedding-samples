@@ -18,3 +18,4 @@ If you'd like to remove the "Powered by Metabase" attribution, check out our [pa
 
 ## Samples
 * [Python Flask](/python)
+* [Node.js Express](/node)
