@@ -10,8 +10,8 @@ This sample code demonstrates using Metabase static embedding in Python using Fl
 
 ## Preparing the embed
 1. Sign in to your Metabase instance as an admin. 
-2. Go to admin settings and enabling embedding.
-3. Under admin settings/embedding, click on static embedding and copy the embedding secret key.
+2. Go to admin settings, embedding and enable static embedding.
+3. Under admin settings/embedding, click on manage on the static embedding card and copy the embedding secret key.
 
 ## Configure the app
 
