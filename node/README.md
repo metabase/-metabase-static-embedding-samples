@@ -27,4 +27,4 @@ This sample code demonstrates using Metabase static embedding in Node.js using E
 2. Click on the "Publish" button
 3. Install the dependencies: `$ npm install`
 4. Start the server: `$ npm start`
-5. Open the app in your browser at http://localhost:8080
+5. Open the app in your browser at http://localhost:9090
