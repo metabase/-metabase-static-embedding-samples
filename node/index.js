@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
   res.send(
     `
     <script src="{METABASE_SITE_URL}/app/iframeResizer.js"></script>
-            <!DOCTYPE html>
+    <!DOCTYPE html>
     <html>
     <body style="background-color:black;">
     <iframe id="metabase" src="${iframeUrl}" frameborder="0" width="1280" height="1000" allowtransparency></iframe>
