@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 
   const iframeUrl = new URL("/embed/dashboard/" + token, METABASE_SITE_URL);
 
-  iframeUrl.hash = "theme=night&background=true";
+  iframeUrl.hash = "bordered=true&titled=true";
   res.send(
     `
     <script src="{METABASE_SITE_URL}/app/iframeResizer.js"></script>
