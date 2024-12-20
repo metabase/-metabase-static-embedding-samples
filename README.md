@@ -17,6 +17,6 @@ Embedding Metabase charts will always be free, but we include a "Powered by Meta
 If you'd like to remove the "Powered by Metabase" attribution, check out our [paid plans](https://www.metabase.com/pricing/). In addition to removing the banner, you can also customize the fonts and hide the download buttons for questions. 
 
 ## Samples
+* [Node.js Express](/node)
 * [Python Flask](/python)
 * [Ruby Sinatra](/ruby)
-
